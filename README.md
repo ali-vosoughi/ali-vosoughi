@@ -3,8 +3,8 @@
 I am [Ali Vosoughi](https://alivosoughi.com). Welcome to my GitHub profile! Here's a bit about me:
 
 - 🎓 I am a PhD Candidate at the University of Rochester.
-- 🎓 I completed my master's at [Bogazici University](https://bogazici.edu.tr/en_US)
-- 🏫 I obtained my bachelor's degree from [Sharif University of Technology](https://en.sharif.edu/)
+- 🎓 I completed my master's at [Bogazici University](https://bogazici.edu.tr/en_US).
+- 🏫 I obtained my bachelor's degree from [Sharif University of Technology](https://en.sharif.edu/).
 - 🔍 My research interests include Multimodal Learning and Video and Audio Understanding.
 - 🌐 Visit my website: [alivosoughi.com](https://alivosoughi.com)
 
