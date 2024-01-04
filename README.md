@@ -5,7 +5,7 @@ I am [Ali Vosoughi](https://alivosoughi.com). Welcome to my GitHub profile! Here
 - 🎓 I am a PhD Candidate at the [University of Rochester](https://www.rochester.edu/).
 - 🎓 I completed my master's at [Bogazici University](https://bogazici.edu.tr/en_US).
 - 🏫 I obtained my bachelor's degree from [Sharif University of Technology](https://en.sharif.edu/).
-- 🔍 My research interests include Multimodal Learning and Video and Audio Understanding.
+- 🔍 My research interests include Language, Causality and Reasoning of Multimodal Learning and Video and Audio Understanding.
 - 🌐 Visit my website: [alivosoughi.com](https://alivosoughi.com)
 
 <!--
