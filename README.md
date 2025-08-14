@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+[![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=OWNER&style=social)](https://github.com/ali-vosoughi)
+[![Website](https://img.shields.io/badge/website-alivosoughi.com-informational)](https://alivosoughi.com)
+
 I am [Ali Vosoughi](https://alivosoughi.com). Welcome to my GitHub profile! Here's a bit about me:
 
 - 🎓 I am a PhD student at the [University of Rochester](https://www.rochester.edu/).
-- 🔍 My research interests include Reasoning, Scene Understanding & Generation.
+- 🔍 My research interests include Unified MM Reasoning, Understanding and Generation.
 - 🌐 Visit my website: [alivosoughi.com](https://alivosoughi.com)
 
 <!--
