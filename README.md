@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi)
 I am [Ali Vosoughi](https://alivosoughi.com). Welcome to my GitHub profile! Here's a bit about me:
-- 🎓 I am a PhD student at the [University of Rochester](https://www.rochester.edu/).
+- 🎓 I am a PhD researcher at the [University of Rochester](https://www.rochester.edu/).
 - 🔍 My research interests include Unified MM Reasoning, Understanding and Generation.
 - 🌐 Visit my website: [alivosoughi.com](https://alivosoughi.com)
 <!--
