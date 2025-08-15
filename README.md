@@ -1,6 +1,4 @@
-# Ali Vosoughi
-
-[![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi)
+# Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
 🎓 PhD researcher at [Prof. Chenliang Xu's Lab](http://www.cs.rochester.edu/~cxu22/) | Unified multimodal reasoning, understanding, and generation | [alivosoughi.com](https://alivosoughi.com)
 
