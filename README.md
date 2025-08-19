@@ -5,7 +5,7 @@
 ---
 
 👋 Welcome to Ali Vosoughi's code repository. I try to provide value for you, so I put some of my work here so you can better search through the codes and find what you need.
-multimodal instructional system with augmented reality
+
 🧠 My interest is in systems beyond human capabilities—not just through intelligence, but through combining visual, auditory, and other signals [EEG, behavior, haptics, lidar, IR, ultrasound] that evolution forgot to put in us. Look at bats, for example—they see signals we can't see! 🦇
 
 🔬 Currently we're limited to audio, visual, and semantic modalities. Today we connect video and images with language models, and the importance of language has made multimodal branches extremely popular. Consider work on [3D perspective understanding](https://github.com/ali-vosoughi/MMPerspective) 🏗️, [video understanding with LLMs](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) 🎥, [visual question answering](https://github.com/ali-vosoughi/PW-VQA) ❓, and [visual reasoning](https://huggingface.co/datasets/jing-bi/verify-teaser) 🧩. But these works cannot fill the audio gap at all. 
