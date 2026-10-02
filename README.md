@@ -1,6 +1,6 @@
 # Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
-Multimodal machine learning for audio, vision and medicine: audio-language models, multimodal evaluation, radiology agents, and [RL post-training](https://ali-vosoughi.github.io/#current).
+Multimodal machine learning for audio, vision, medicine and electronic design automation (EDA): audio-language models, multimodal evaluation, radiology agents, AI agents for circuit design, and [RL post-training](https://ali-vosoughi.github.io/#current).
 
 Led the live assistant demonstration in the DARPA PTG program (MIT program review); built the AVE-2 curation stack at Microsoft Research; co-invented the counterfactual audio-language method at Bosch (US patent application); built PromptReverb at Smule.
 
