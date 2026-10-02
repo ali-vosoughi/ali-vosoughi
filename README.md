@@ -1,10 +1,10 @@
 # Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
-Multimodal machine learning for audio, vision and medicine. Dissertation complete, [University of Rochester](https://www.hajim.rochester.edu/ece/people/gradstudents/index.html).
+Multimodal machine learning for audio, vision and medicine: audio-language models, multimodal evaluation, radiology agents, and [RL post-training](https://ali-vosoughi.github.io/#current).
 
-Audio-language models, multimodal evaluation, radiology agents, and RL post-training. Built in a DARPA program and at Apple, Microsoft Research, Smule and Bosch.
+Led the live assistant demonstration in the DARPA PTG program (MIT program review); built the AVE-2 curation stack at Microsoft Research; co-invented the counterfactual audio-language method at Bosch (US patent application); built PromptReverb at Smule.
 
-**Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/ · Advisors: [Axel Wismueller](https://www.urmc.rochester.edu/labs/wismueller) and [Chenliang Xu](https://cliangxu.github.io/)
+**Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/
 
 ## Four lanes
 
@@ -18,6 +18,10 @@ Audio-language models, multimodal evaluation, radiology agents, and RL post-trai
 - [AVE-2](https://huggingface.co/datasets/ali-vosoughi/ave-2): 570,138 audio-visual clips with five alignment scores (gated, citation agreement)
 - [OSCaR](https://github.com/nguyennm1024/OSCaR): object-state captioning codebase, [dataset](https://huggingface.co/datasets/ali-vosoughi/oscar-dataset) and checkpoints on Hugging Face
 - [OpenXRD](https://github.com/niaz60/OpenXRD): crystallography QA benchmark (Digital Discovery 2026, front cover)
+
+## Background
+
+Dissertation complete, [University of Rochester](https://www.hajim.rochester.edu/ece/people/gradstudents/index.html). Advisors: [Axel Wismueller](https://www.urmc.rochester.edu/labs/wismueller) and [Chenliang Xu](https://cliangxu.github.io/).
 
 ## Elsewhere
 
