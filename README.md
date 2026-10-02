@@ -1,15 +1,24 @@
 # Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
-🎓 PhD researcher at [Prof. Chenliang Xu's Lab](http://www.cs.rochester.edu/~cxu22/) | Unified multimodal reasoning, understanding, and generation | [alivosoughi.com](https://alivosoughi.com)
+Multimodal machine learning for audio, vision and medicine. Dissertation complete, University of Rochester.
 
----
+Audio-language models, multimodal evaluation, radiology agents, and RL post-training. Built in a DARPA program and at Apple, Microsoft Research, Smule and Bosch.
 
-👋 Welcome to Ali Vosoughi's code repository. I try to provide value for you, so I put some of my work here so you can better search through the codes and find what you need.
+**Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/ · Advisors: Axel Wismueller and Chenliang Xu
 
-🧠 My interest is in systems beyond human capabilities—not just through intelligence, but through combining visual, auditory, and other signals [behavior, brain, haptics, lidar, etc] that evolution forgot to put in us. Look at bats, for example—they see signals we can't see! 🦇
+## Four lanes
 
-🔬 Currently we're limited to audio, visual, and semantic modalities. Today we connect video and images with language models, and the importance of language has made multimodal branches extremely popular. Consider work on [3D perspective understanding](https://github.com/yunlong10/MMPerspective) 🏗️, [video understanding with LLMs](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) 🎥, [visual question answering](https://github.com/ali-vosoughi/PW-VQA) ❓, and [visual reasoning](https://huggingface.co/datasets/jing-bi/verify-teaser) 🧩. But these works cannot fill the audio gap at all. 
+- **Audio and speech** · [PromptReverb](https://github.com/ali-vosoughi/PromptReverb) (ICASSP 2026) · [counterfactual audio-language learning](https://github.com/ali-vosoughi/counterfactual-audio) (ICASSP 2024, US patent application) · [SoundCLIP](https://ali-vosoughi.github.io/SoundCLIP/) (preprint) · [MISAR](https://github.com/ali-vosoughi/misar) (multimodal instructional system with augmented reality)
+- **Vision and evaluation** · [VERIFY](https://ali-vosoughi.github.io/publications/verify/) (COLM 2026) · [MMPerspective](https://ali-vosoughi.github.io/publications/mmperspective/) (NeurIPS 2025) · [PW-VQA](https://github.com/ali-vosoughi/PW-VQA) (IEEE TMM 2024)
+- **Medical diagnosis automation** · [large-scale nonlinear Granger causality](https://github.com/Large-scale-causality-inference/Large-scale-nonlinear-causality) (Scientific Reports 2021) · [lsAGC for fMRI](https://ali-vosoughi.github.io/publications/lsagc/) (NeuroImage 2025) · [radiology-report agents](https://ali-vosoughi.github.io/publications/radagent/) (SPIE Emerging Topics in AI 2026)
+- **Electronic design automation and hardware accelerators** · [side-channel and fault-injection defenses](https://ali-vosoughi.github.io/publications/#hardware) (ISCAS, SLIP, GLSVLSI 2019) · analog Ising machines (ISCAS 2020)
 
-🎵 For example, you can refer to several examples of multimodal audio work: [SoundCLIP](https://github.com/ali-vosoughi/SoundCLIP) 🔊, [counterfactual audio learning](https://github.com/ali-vosoughi/counterfactual-audio) 🎯, and [multimodal instructional system with augmented reality](https://github.com/ali-vosoughi/misar) 🎼. Audio reasoning with semantic domain support is also possible, or audio and video can help each other with source separation, and the semantic domain can play a role in connections between vision, language, and audio.
+## Open releases
 
-🚀 These systems can ultimately understand, comprehend, and generate unified outputs between vision, language, speech, audio, and video—though not like natural humans, but to get us to our goals faster.
+- [AVE-2](https://huggingface.co/datasets/ali-vosoughi/ave-2): 570,138 audio-visual clips with five alignment scores (gated, citation agreement)
+- [OSCaR](https://github.com/nguyennm1024/OSCaR): object-state captioning codebase, [dataset](https://huggingface.co/datasets/ali-vosoughi/oscar-dataset) and checkpoints on Hugging Face
+- [OpenXRD](https://github.com/niaz60/OpenXRD): crystallography QA benchmark (Digital Discovery 2026, front cover)
+
+## Elsewhere
+
+[Google Scholar](https://scholar.google.com/citations?user=uyqE3LEAAAAJ) · [Hugging Face](https://huggingface.co/ali-vosoughi) · [LinkedIn](https://www.linkedin.com/in/ali-vosoughi-2b356a82) · [ORCID](https://orcid.org/0000-0003-1014-2937)
