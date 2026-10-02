@@ -4,7 +4,7 @@ Multimodal machine learning for audio, vision and medicine. Dissertation complet
 
 Audio-language models, multimodal evaluation, radiology agents, and RL post-training. Built in a DARPA program and at Apple, Microsoft Research, Smule and Bosch.
 
-**Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/ · Advisors: Axel Wismueller and Chenliang Xu
+**Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/ · Advisors: [Axel Wismueller](https://www.urmc.rochester.edu/labs/wismueller) and [Chenliang Xu](https://cliangxu.github.io/)
 
 ## Four lanes
 
