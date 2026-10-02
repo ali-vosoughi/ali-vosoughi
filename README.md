@@ -1,6 +1,6 @@
 # Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
-Multimodal machine learning for audio, vision and medicine. Dissertation complete, University of Rochester.
+Multimodal machine learning for audio, vision and medicine. Dissertation complete, [University of Rochester](https://www.hajim.rochester.edu/ece/people/gradstudents/index.html).
 
 Audio-language models, multimodal evaluation, radiology agents, and RL post-training. Built in a DARPA program and at Apple, Microsoft Research, Smule and Bosch.
 
