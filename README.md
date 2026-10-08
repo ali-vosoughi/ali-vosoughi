@@ -1,6 +1,8 @@
-# Ali Vosoughi
+# Ali Vosoughi  ⭐ [![Total Stars](https://img.shields.io/github/stars/ali-vosoughi?affiliations=COLLABORATOR&style=social)](https://github.com/ali-vosoughi) ⭐
 
 Vision-language and audio-language models: video understanding, audio-visual learning, multimodal reasoning and RL post-training. ML research and the software behind it.
+
+**3,800+ GitHub stars** across the repositories I created or contributed to, including the IEEE TCSVT Video-LLM survey list [Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) (3.2k+ stars).
 
 Built the headset demo paths for the live assistant in the DARPA PTG program (MIT program review); wrote most of the OSCaR codebase and host its checkpoints and dataset on Hugging Face; built the AVE-2 curation stack at Microsoft Research; built PromptReverb at Smule; co-inventor on the counterfactual audio-language US patent application at Bosch.
 
