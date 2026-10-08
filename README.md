@@ -1,8 +1,8 @@
 # Ali Vosoughi
 
-Vision-language models and multimodal LLMs: video understanding, multimodal reasoning and RL post-training, plus audio-language models. ML research and the software behind it.
+Vision-language and audio-language models: video understanding, audio-visual learning, multimodal reasoning and RL post-training. ML research and the software behind it.
 
-Led the live assistant demonstration in the DARPA PTG program (MIT program review); wrote most of the OSCaR codebase and host its checkpoints and dataset on Hugging Face; built the AVE-2 curation stack at Microsoft Research; built PromptReverb at Smule; co-inventor on the counterfactual audio-language US patent application at Bosch.
+Built the headset demo paths for the live assistant in the DARPA PTG program (MIT program review); wrote most of the OSCaR codebase and host its checkpoints and dataset on Hugging Face; built the AVE-2 curation stack at Microsoft Research; built PromptReverb at Smule; co-inventor on the counterfactual audio-language US patent application at Bosch.
 
 **Research showcase:** https://ali-vosoughi.github.io/ · **Main site:** https://www.alivosoughi.com/
 
@@ -15,6 +15,7 @@ Led the live assistant demonstration in the DARPA PTG program (MIT program revie
 ## RL post-training
 
 - Online RL with verifiable rewards (GRPO in verl: vLLM rollouts, FSDP2, LoRA) across vision-language and audio-language backbones; distributed training on H100/H200 clusters · [current work](https://ali-vosoughi.github.io/#current)
+- [VerifyGRPO-Rad](https://github.com/ali-vosoughi/VerifyGRPO-Rad): GRPO post-training with verifiable rewards for chest radiograph report checking; unmentioned checklist findings change how much RL appears to help ([arXiv:2610.05425](https://arxiv.org/abs/2610.05425); submitted to npj Digital Medicine)
 
 ## Audio-language models
 
